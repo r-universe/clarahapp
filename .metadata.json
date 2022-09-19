@@ -2,5 +2,9 @@
   {
     "package": "funData",
     "oncran": true
+  },
+  {
+    "package": "MFPCA",
+    "oncran": true
   }
 ]
