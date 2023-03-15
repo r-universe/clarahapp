@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "funData"]
-	path = funData
-	url = https://github.com/clarahapp/fundata
-	shallow = true
-	registered = true
 [submodule "MFPCA"]
 	path = MFPCA
 	url = https://github.com/clarahapp/mfpca
+	shallow = true
+	registered = true
+[submodule "funData"]
+	path = funData
+	url = https://github.com/clarahapp/fundata
 	shallow = true
 	registered = true
