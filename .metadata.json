@@ -1,10 +1,10 @@
 [
   {
-    "package": "MFPCA",
+    "package": "funData",
     "oncran": true
   },
   {
-    "package": "funData",
+    "package": "MFPCA",
     "oncran": true
   }
 ]
