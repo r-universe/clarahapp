@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "funData"]
-	path = funData
-	url = https://github.com/clarahapp/fundata
 [submodule "MFPCA"]
 	path = MFPCA
 	url = https://github.com/clarahapp/mfpca
+[submodule "funData"]
+	path = funData
+	url = https://github.com/clarahapp/fundata
